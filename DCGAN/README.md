@@ -1,5 +1,7 @@
 # Implementation of DCGAN using Tensorflow and then lets add a smile to sad faces.
 
+- The last task (Deepl learning  in Computer vision course) and the one i enjoyed the most, as i implemented every part of the DCGAN (thats why its an advanced course) , lets look at the results. 
+
 - Generated Faces
 - ![Generated Faces](https://i.ibb.co/XWyfdgM/gan-faces.png)
 
