@@ -1,10 +1,10 @@
 # Face Recognition Task
 
 To construct face recognizer based on features extracted from the neural network. 
--The task consists of three steps: 
--- Face Detection in images using Haar Cascade.
--- Extracting Face features using CNN.
--- Matching Faces using Logistic Regression.
+- The task consists of three steps: 
+  - Face Detection in images using Haar Cascade.
+  - Extracting Face features using CNN.
+  - Matching Faces using Logistic Regression.
 
 
 ## Files
